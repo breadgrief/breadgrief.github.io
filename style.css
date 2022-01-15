@@ -29,18 +29,18 @@ footer {
   padding: 3px;
 }
 #lside {
-  padding: 1px;
-
   float: left;
   margin: auto;
+}
+#adimage {
   border: 2px solid grey;
+  padding: 1px
 }
 #rside {
   background: #f0f0f0;
   padding: 5px;
   width: 145px;
   float: right;
-  margin: auto;
   border: 2px solid grey;
 }
 #head {
