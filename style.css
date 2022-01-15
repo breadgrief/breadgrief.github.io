@@ -1,0 +1,50 @@
+#wrapper {
+  max-width: 750px;
+  margin: auto;
+  border: 2px solid black;
+  padding: 20px;
+}
+header {
+  padding: 20px 0;
+}
+nav {
+  border: 2px solid black;
+  padding: 10px;
+  background-color: grey;
+}
+a {
+  color: black;
+}
+iframe {
+  border: 2px solid grey;
+  padding: 0px;
+}
+footer {
+  background-color: grey;
+  border: 2px solid black;
+  padding: 0px;
+}
+#navigation {
+  border: 2px solid black;
+  padding: 3px;
+}
+#lside {
+  background: #f0f0f0;
+  padding: 5px;
+  max-width: 120px;
+  float: left;
+  margin: auto;
+  border: 2px solid grey;
+}
+#rside {
+  background: #f0f0f0;
+  padding: 5px;
+  max-width: 120px;
+  float: right;
+  margin: auto;
+  border: 2px solid grey;
+}
+img {
+  border: 2px solid black;
+  padding: 0px;
+}
