@@ -2,6 +2,7 @@
   max-width: 750px;
   margin: auto;
   border: 2px solid black;
+  border-radius: 10px;
   padding: 20px;
 }
 header {
@@ -9,6 +10,7 @@ header {
 }
 nav {
   border: 2px solid black;
+  border-radius: 10px;
   padding: 10px;
   background-color: grey;
 }
@@ -17,15 +19,18 @@ a {
 }
 iframe {
   border: 2px solid grey;
+  border-radius: 10px;
   padding: 0px;
 }
 footer {
   background-color: grey;
   border: 2px solid black;
+  border-radius: 10px;
   padding: 0px;
 }
 #navigation {
   border: 2px solid black;
+  border-radius: 10px;
   padding: 3px;
 }
 #lside {
@@ -34,6 +39,7 @@ footer {
 }
 #adimage {
   border: 2px solid grey;
+  border-radius: 10px;
   padding: 1px;
 }
 #rside {
@@ -42,8 +48,10 @@ footer {
   width: 145px;
   float: right;
   border: 2px solid grey;
+  border-radius: 10px;
 }
 #head {
   border: 2px solid black;
+  border-radius: 10px;
   padding: 0px;
 }
